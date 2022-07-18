@@ -1,4 +1,4 @@
-#TO-DO LIST
+# TO-DO LIST
 
 Este projeto foi feito utilizando react.js, typescript e tailwindCSS.
 
